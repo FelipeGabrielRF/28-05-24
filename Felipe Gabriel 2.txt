@@ -1,0 +1,16 @@
+ Sistema Operacional(SO) é um conjunto de softwares, onde a sua função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware a programas de terceiros, estabelecendo uma conexão entre os recursos do computador e o usuário.
+ O SO cria uma cada de abstração entre o harware e o usuário, que transforma comandos no mouse, teclado e solicitações do sistema, um exemplo é o gerenciamento de recursos (CPU e RAM) em uma linguagem, que envia instruções para o processador.
+ Ele intermadia o diálogo entre a máquina e o programador, para que a pessoa não precise se preocupar em administrar todos os recursos na mão, por exemplo, ter que deslocar um espaço na memória específico para determinada variável.
+ O SO mais utilizaddo é o Android, baseado no núcleo Linux, projetado para dispositivos eletrônicos móveis (celulares e tablets). com sua tela sensível ao toque ou baseada na manipulação direta.
+ Logo após vem o Windows (mais utilizado em Computadores) que é um SO gráfico de multitarefa. Significando que é possivel trabalhar com vários programas ao mesmo tempo. Por exemplo escutar uma música e ao mesmo tempo jogar algum jogo.
+ Em terceiro vem o IOS, SO  móvel da Apple Inc. desenvolvida apenas para Iphone, Ipad etc...  A Apple não permite que o IOS seja executado em harware de terceiros como os outros citados anteriormnete. 
+ 
+Sites utilizados:
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
+
+https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura#:~:text=Fundamentalmente%2C%20um%20sistema%20operacional%20%C3%A9,macOS%2C%20UNIX%2C%20entre%20outros.
+
+https://pt.wikipedia.org/wiki/Android#:~:text=Android%20%C3%A9%20um%20sistema%20operacional,desenvolvedores%20conhecido%20como%20Open%20Handset
+
+https://pt.wikipedia.org/wiki/IOS#:~:text=iOS%20(antes%20chamado%20de%20iPhone,executado%20em%20hardware%20de%20terceiros.
+
